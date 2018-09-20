@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "719866149584",
+    "firebase_url": "https://camara-32fc5.firebaseio.com",
+    "project_id": "camara-32fc5",
+    "storage_bucket": "camara-32fc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719866149584:android:4e2f7d0580d9340a",
+        "android_client_info": {
+          "package_name": "co.edu.icesi.yeye.camara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719866149584-4g5mtgkbq1p4cf9cbjmcfrkamdl870d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.icesi.yeye.camara",
+            "certificate_hash": "a9ec1747fbc4aeefb730a2074487e83aedd7e91b"
+          }
+        },
+        {
+          "client_id": "719866149584-s0f9616pac0o722assnalfmoc3207sqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBa3S01lFyQiScGQfytI3Fk0oHgJY0l8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719866149584-s0f9616pac0o722assnalfmoc3207sqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
